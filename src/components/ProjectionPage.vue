@@ -56,7 +56,7 @@ export default {};
   font-family: "Ubuntu", sans-serif;
   font-size: 17px;
   font-weight: 400;
-  line-height: 19.53px;
+  line-height: 19.54px;
 }
 @media screen and (min-width: 100px) and (max-width: 1300px) {
   img {
@@ -68,7 +68,6 @@ export default {};
   }
   .container {
     width: 100vw;
-   
   }
 }
 </style>
